@@ -1,0 +1,10 @@
+('D:\\Work_Android\\Env_Android\\Android_Environment\\build\\python\\PythonToExe\\pyinstaller-2.0\\YL-tiger\\dist\\YL-tiger.exe',
+ False,
+ False,
+ 'YL-tiger.ico',
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1494835614L)

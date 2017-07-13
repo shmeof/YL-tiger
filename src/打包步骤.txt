@@ -1,0 +1,4 @@
+打包步骤：
+1、cmd到目录 D:\Work_Android\Env_Android\Android_Environment\build\python\PythonToExe\pyinstaller-2.0>
+2、执行 python pyinstaller.py -w --onefile --icon="YL-tiger.ico" YL-tiger.py
+3、将文件夹D:\Work_Android\Env_Android\Android_Environment\build\python\Python27\Lib\site-packages\reportlab 拷贝到 第2步生成的 \pyinstaller-2.0\YL-tiger\dist\ 目录下（与"YL-tiger.exe"同目录）

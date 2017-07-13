@@ -1,0 +1,51 @@
+
+打包python成exe
+推荐： http://blog.csdn.net/hmy1106/article/details/45151409
+D:\Work_Android\Env_Android\Android_Environment\build\python\PythonToExe\pyinstaller-2.0>python pyinstaller.py -w --onefile --icon="lin520.ico" lin520
+.py
+python pyinstaller.py -w --onefile --icon="YL-tiger.ico" YL-tiger.py
+
+http://www.cnblogs.com/chjbbs/archive/2014/01/25/3533187.html
+
+python——Tkinter图形化界面及threading多线程
+http://blog.csdn.net/sm9sun/article/details/53743116
+
+chrome谷歌浏览器安装插件保存网页为单个文件
+https://jingyan.baidu.com/article/a3761b2bc9537d1576f9aaff.html
+
+http://www.cnblogs.com/chjbbs/p/3533307.html
+
+
+chrome扩展获取页面dom对象信息
+http://www.w3dev.cn/article/20140703/chrome-extension-get-tab-page-dom.aspx
+正则表达式
+http://blog.csdn.net/u013074465/article/details/44310427
+
+python excel 保留格式
+http://biotopiblog.sinaapp.com/2014/06/python%E8%AF%BB%E5%86%99excel%E5%A6%82%E4%BD%95%E4%BF%9D%E7%95%99%E5%8E%9F%E6%9C%89%E6%A0%BC%E5%BC%8F/
+
+python excel 格式化
+http://blog.sina.com.cn/s/blog_5357c0af01019gjo.html
+
+Python win32com 操作Excel简单方法
+http://blog.csdn.net/sxd514544859sxd/article/details/37975099
+
+python html标签过滤
+http://blog.csdn.net/eastmount/article/details/51082253
+
+python excel to pdf
+http://stackoverflow.com/questions/2018932/convert-excel-to-pdf-in-python
+
+使用Python生成PDF格式的文档
+http://blog.csdn.net/amy_0626/article/details/52999885
+
+python+reportlab实战：生成一个带表格图片的PDF
+http://blog.csdn.net/jtscript/article/details/45217697
+
+python 监听文件修改 windows
+http://blog.csdn.net/frank_good/article/details/65442580
+
+遇到的问题：
+PyInstaller generated exe not working, project uses ReportLab
+http://stackoverflow.com/questions/18573161/pyinstaller-generated-exe-not-working-project-uses-reportlab
+
